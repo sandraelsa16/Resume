@@ -1,0 +1,35 @@
+.heading{
+    text-align: center;
+    margin-bottom: 2px;
+}
+.intro{
+    text-align: center;
+}
+.line{
+    max-width: 1050px;
+    margin: 0 auto;
+    border: 10px black;
+}
+.container{
+    display: grid;
+      grid-template-columns: 1fr 1fr; 
+      margin-right: 250px;
+      margin-left: 250px;
+      text-align: justify;
+      
+      
+      }
+
+.colmn{
+    padding: 05px;
+     /*border: 1px solid #ccc;*/
+}
+.colmn1{
+    padding-top: 45px;
+}
+.heading1{
+  margin-bottom: 2px;
+}
+.colmn2{
+    padding-top: 3px;
+}
